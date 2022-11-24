@@ -10,16 +10,18 @@ TRADE OFF
 Na engenharia de software, assim como em muitas áreas, os trade-offs estão presentes. Eles se manifestam do nível micro ao macro. Os engenheiros de software precisam escolher entre diferentes opções de tipos de dados, algoritmos, estruturas de dados, frameworks, bibliotecas, linguagens, tecnologias, servidores, bancos de dados, sistemas de mensagens, padrões, modelos, designs, arquiteturas e etc que estão trocando qualidades, como extensibilidade e capacidade de manutenção. Existe uma compensação mesmo quando se escolhe escrever ou não um teste, alguns níveis de teste são inerentemente mais caros, mais lentos e mais frágeis do que outros, então não deve escrever todos eles igualmente é necessário implementar um teste pirâmide.
 
 REQUISITOS
+
 Situação:
 Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes, onde ele poderá localizar por seu nome ou através dos atributos incluído no pedido, sendo possível comparar os dados entre os pedidos.
-Requisitos Funcionais
+
+Requisitos Funcionais:
 • Cadastro de clientes: Realiza o cadastro do cliente com os seguintes dados, nome e pedido;
 • Cadastro de pedidos: Introduz os dados, numeroDaMesa, horaDoPedido, tipoDeGrao, tipoDeSalada, acompanhamento;
 
 Diagrama de Casos de Uso
 ![image](https://user-images.githubusercontent.com/101812272/203682840-1b123870-7dff-4dee-8a51-ec632352e9a7.png)
 
-Requisitos Não Funcionais
+Requisitos Não Funcionais:
 • Usabilidade
 • Transparência
 • Plataforma Intuitiva e Flexível
