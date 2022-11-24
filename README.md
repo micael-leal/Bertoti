@@ -4,3 +4,7 @@
 Titus Winters, Software Engineering at Google
 
 Comentário = Apesar do cargo ser diferente um engenheiro de software se envolve na programação, porém os engenheiros possuem uma responsabilidade maior do que os programadores. Por exemplo, estar atento às mudanças no mercado, testes de software, gerência de requerimentos e organização.
+
+TRADE OFF
+
+Na engenharia de software, assim como em muitas áreas, os trade-offs estão presentes. Eles se manifestam do nível micro ao macro. Os engenheiros de software precisam escolher entre diferentes opções de tipos de dados, algoritmos, estruturas de dados, frameworks, bibliotecas, linguagens, tecnologias, servidores, bancos de dados, sistemas de mensagens, padrões, modelos, designs, arquiteturas e etc que estão trocando qualidades, como extensibilidade e capacidade de manutenção. Existe uma compensação mesmo quando se escolhe escrever ou não um teste, alguns níveis de teste são inerentemente mais caros, mais lentos e mais frágeis do que outros, então não deve escrever todos eles igualmente é necessário implementar um teste pirâmide.
