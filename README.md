@@ -15,15 +15,20 @@ Situação:
 Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes, onde ele poderá localizar por seu nome ou através dos atributos incluído no pedido, sendo possível comparar os dados entre os pedidos.
 
 Requisitos Funcionais:
+
 • Cadastro de clientes: Realiza o cadastro do cliente com os seguintes dados, nome e pedido;
+
 • Cadastro de pedidos: Introduz os dados, numeroDaMesa, horaDoPedido, tipoDeGrao, tipoDeSalada, acompanhamento;
 
 Diagrama de Casos de Uso
 ![image](https://user-images.githubusercontent.com/101812272/203682840-1b123870-7dff-4dee-8a51-ec632352e9a7.png)
 
 Requisitos Não Funcionais:
+
 • Usabilidade
+
 • Transparência
+
 • Plataforma Intuitiva e Flexível
 
 
