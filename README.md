@@ -21,7 +21,7 @@ Requisitos Funcionais:
 • Cadastro de pedidos: Introduz os dados, numeroDaMesa, horaDoPedido, tipoDeGrao, tipoDeSalada, acompanhamento;
 
 Diagrama de Casos de Uso
-![image](https://user-images.githubusercontent.com/101812272/203682840-1b123870-7dff-4dee-8a51-ec632352e9a7.png)
+
 
 Requisitos Não Funcionais:
 
