@@ -33,5 +33,6 @@ Requisitos Não Funcionais:
 
 
 Diagrama de Classes UML
-![image](https://user-images.githubusercontent.com/101812272/203967697-0c27fa89-419b-4086-980f-ae4873f5f3c7.png)
+![Sem título](https://user-images.githubusercontent.com/101812272/203975365-9d9eb11e-b801-4684-8359-8685d4b21b9f.png)
+
 
