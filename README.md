@@ -12,16 +12,16 @@ Na engenharia de software, assim como em muitas áreas, os trade-offs estão pre
 REQUISITOS
 
 Situação:
-Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes, onde ele poderá localizar por seu nome ou através dos atributos incluído no pedido, sendo possível comparar os dados entre os pedidos.
+Uma loja de carros precisa de um sistema na qual irá cadastrar seus clientes e então localizá-los pelo CPF, também é possível localizar através dos atributos de cada pedido podendo fazer uma comparação entre os pedidos.
 
 Requisitos Funcionais:
 
-• Cadastro de clientes: Realiza o cadastro do cliente com os seguintes dados, nome e pedido;
+• Cadastro de clientes: Cadastrar os clientes com o CPF e pedido;
 
-• Cadastro de pedidos: Introduz os dados, numeroDaMesa, horaDoPedido, tipoDeGrao, tipoDeSalada, acompanhamento;
+• Cadastro de pedidos: modeloDoCarro, anoDoCarro, placaDoCarro, corDoCarro;
 
 Diagrama de Casos de Uso
-
+![Untitled (1)](https://user-images.githubusercontent.com/101812272/204935630-6a4a53b3-be98-486f-9184-2602ba795f2e.png)
 
 Requisitos Não Funcionais:
 
@@ -33,6 +33,6 @@ Requisitos Não Funcionais:
 
 
 Diagrama de Classes UML
-![Rectangle 1](https://user-images.githubusercontent.com/101812272/203976652-bb0c0cdc-6bd4-4081-9e33-bf3475b99b77.png)
+![diagrama](https://user-images.githubusercontent.com/101812272/204941800-740fa876-279f-45d3-a463-93d280b37b3d.png)
 
 
